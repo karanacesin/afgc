@@ -1,0 +1,113 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<style>
+body	{color: #FFFAFA;
+		font-size: 16px;
+		font-family: "Arial Black", Gadget, sans-serif;
+		background-color: #000000}
+.table	{background-image: url(../images/pastorronandshofar.jpg);
+		 background-position: top;
+		 background-repeat:no-repeat}
+.table2  {background-color:transparent}
+.links	{color: #BA55D3;
+		align: center}
+.calendar {background-image: none;
+		   border-color: #38B0DE}
+.column2 {font-family: Arial, Helvetica, sans-serif;
+		  font-size: 16px;
+		  text-align:left;
+		  color:#F5FFFA}
+.caltext {font-size: 14px;
+		  font-family: Arial, Helvetica, sans-serif}
+.monthname {font-size: 36px;
+			font-family: "Arial Black", Gadget, sans-serif}
+.heading	{font-size: 24px;
+			 font-family: Arial, Helvetica, sans-serif}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #FF4500;
+}
+a:hover {
+	text-decoration: none;
+	color: #ba55d3;
+}
+a:active {
+	text-decoration: none;
+	color: #ba55d3;
+}
+a {
+	font-size: 18px;
+	color: #ba55d3;
+}
+</style>
+</head>
+
+<body>
+<table border="0px" align="center" width="1010" class="table">
+  <tr>
+    <td align="center" colspan="3"><img src="../images/namebutton.jpg" alt="Altoona Full Gospel Church" width="1010" height="104" /></td>
+  </tr>
+  <tr>
+  	<td align="center" colspan="3"><img src="../images/menubar.jpg" border="0" usemap="#Map" /></td>
+  </tr>
+  <!-- TemplateBeginEditable name="Links" -->
+  <tr class="links">
+    <td width="200" align="center" valign="middle" class="links">&nbsp;</td>
+    <td><table width="630" border="0" class="table2">
+      <tr class="links">
+        <td width="210" align="center" valign="middle">&nbsp;
+        </td>
+        <td width="210" align="center" valign="middle">&nbsp;
+        </td>
+        <td width="210" align="center" valign="middle">&nbsp;
+        </td>
+      </tr>
+    </table></td>
+    <td width="200" align="center" valign="middle" class="links">
+    </td>
+  </tr>
+  <!-- TemplateEndEditable -->
+  <tr>
+  	<td width="200" valign="top" align="center">
+  	<!-- TemplateBeginEditable name="Column 1"-->
+    <p>&nbsp;</p>
+  	<!-- TemplateEndEditable -->
+    </td>
+    <td width="800" valign="top">
+  	<!-- TemplateBeginEditable name="Column 2" -->
+    <p  align="center">&nbsp;</p>
+	<!-- TemplateEndEditable -->
+    </td>
+  </tr>
+  <tr>
+  	<td align="center" colspan="3"></td>
+  </tr>
+  <tr>
+  	<td colspan="3" align="center">Last Modified: 
+	  <!-- #BeginDate format:Am1 -->November 1, 2013<!-- #EndDate --><br />
+		<a href="mailto:" class="links">Contact the Webmaster</a>
+	</td>
+  </tr>
+</table>
+
+<map name="Map" id="Map">
+  <area shape="rect" coords="888,8,1007,63" href="../ministries.html" alt="Ministries" />
+  <area shape="rect" coords="16,9,114,57" href="../home.html" alt="Welcome" />
+  <area shape="rect" coords="765,7,878,61" href="../children.html" alt="Children" />
+  <area shape="rect" coords="385,5,494,59" href="../scriptures.html" alt="Pastors &amp; Elders" />
+  <area shape="rect" coords="142,3,245,64" href="../prayer.html" alt="Prayer Request" />
+  <area shape="rect" coords="257,13,376,53" href="../pictures.html" alt="Pictures" />
+  <area shape="rect" coords="504,7,633,58" href="../calendar.html" />
+</map>
+</body>
+</html>
